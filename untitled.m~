@@ -1,6 +1,6 @@
-load 'test.data'
+load 'brewser.data'
 figure(1)
 x=[0:359];
 hold off
-plot(x,test)
+plot(x,brewser)
 hold on
