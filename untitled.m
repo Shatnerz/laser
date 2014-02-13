@@ -1,6 +1,6 @@
-load 'dummyglass.data'
+load 'polar.data'
 figure(1)
 x=[0:359];
 hold off
-plot(x,dummyglass(:,1))
+plot(x,polar)
 hold on
